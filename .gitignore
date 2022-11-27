@@ -33,3 +33,7 @@
 
 # VSCode files
 build
+
+# CLion files
+.idea
+cmake-build-debug-mingw_sfml
